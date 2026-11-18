@@ -1,0 +1,1 @@
+export const blockedIntervals=new Set(["80a39714-cec0-4e77-8a2a-fb5d38bae81c","6e70dc6c-0ea9-4c9d-9e81-f6c824aa7089"]);export const ambiguousRows=new Set(["A01","A02","A03","A04","A08","A09","F02","F03","F04","F05"]);

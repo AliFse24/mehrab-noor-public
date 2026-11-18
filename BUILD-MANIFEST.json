@@ -1,0 +1,386 @@
+{
+  "project": "محراب و نور",
+  "version": "v9",
+  "buildType": "minified-public-candidate",
+  "generatedAt": "2026-11-17T17:50:02.917Z",
+  "tools": {
+    "node": "v22.16.0",
+    "terser": "5.51.2",
+    "cssMinifier": "clean-css fallback (Lightning CSS native binary unavailable in this OS)",
+    "htmlMinifierTerser": "7.2.0"
+  },
+  "files": {
+    "revision/app.js": {
+      "sourceSha256": "5fffaa0b4f979cc60bb810b101448877c980dffa3eaf9184aca5246f1dd05242",
+      "outputSha256": "f5b16fc5ec978d7cb82406c03a7229210e30c78f6a7a4c6c6e66bff3d99b930b",
+      "sourceBytes": 11474,
+      "outputBytes": 10001
+    },
+    "revision/lesson-content.js": {
+      "sourceSha256": "2fee362090d76695a06cc5ad4e68331c5eebe34c5b2026090eeb4728380b7e70",
+      "outputSha256": "5ec6a007ee282cfe651ca0f4b2453795074ea796da50a037bd6fb9ef1d177cd7",
+      "sourceBytes": 15654,
+      "outputBytes": 13494
+    },
+    "revision/player.js": {
+      "sourceSha256": "bb0c059424dcad5b2f0261ce146677dd57c844e94618ea479e7fe6b92871c230",
+      "outputSha256": "524d5d098a0edee4839e59dcb1a50027a03407c8be7197db39bc977ef715332f",
+      "sourceBytes": 7794,
+      "outputBytes": 5498
+    },
+    "revision/activities.js": {
+      "sourceSha256": "dde92a27c2b68f5803c775912b741bd31d3659b8a383f45c52bb1decb8722de7",
+      "outputSha256": "03c55796226f933afe3c726693e2ae549a682efc0640620b7f9067fc03e6ebe6",
+      "sourceBytes": 9869,
+      "outputBytes": 8893
+    },
+    "revision/activity-model.js": {
+      "sourceSha256": "d5a735b34fde8aa0124e02f08727e1a75a7532eca2dc44d774c6785e784b1cb5",
+      "outputSha256": "2806febaa2152deb4666aec9e0e80dac9fb2bb112470438baa80529e57dfb68d",
+      "sourceBytes": 7104,
+      "outputBytes": 5526
+    },
+    "revision/safety.js": {
+      "sourceSha256": "978da64babc2fbd6e46d2a7c4131fb4981ed29d7c9299c6fa015ec6a1c1a464b",
+      "outputSha256": "6d00c2f3c5f6a66484457aa45a37575fb355284bfc03ea4c4b33d04bb9e77526",
+      "sourceBytes": 399,
+      "outputBytes": 218
+    },
+    "src/assets.js": {
+      "sourceSha256": "bb2c46487640dbadb1eccac7f12490898218463a11c3f4ae56df2e086575ff15",
+      "outputSha256": "b21f845ac57d7ecb560741e609bcd5b477fc17115dbc58324c4d9de1e6de1b01",
+      "sourceBytes": 1324,
+      "outputBytes": 854
+    },
+    "src/content.js": {
+      "sourceSha256": "5da0b3d9e24dd6d9b8b84f190ea6992b596541cf89e9df900d13109dd29b4880",
+      "outputSha256": "8d1ee336e74d65a7f9474407c64e9ea6f8e66ebebcc205acd7220f72aec4b449",
+      "sourceBytes": 1320,
+      "outputBytes": 770
+    },
+    "src/curriculum.js": {
+      "sourceSha256": "5c5d5ca827b47b9856309f412a4f83b4d5c190d29ca5d871de9924723b6683cc",
+      "outputSha256": "b86baea13e0c540df88f4a9c14995593ba91d6b3c41f8ce24458cfadfc9191cd",
+      "sourceBytes": 2451,
+      "outputBytes": 1917
+    },
+    "src/ui/components.js": {
+      "sourceSha256": "25bfc8decb0b65af37962e0a438332c192c18a1064b9dcc6af8b4fc351f9a9e1",
+      "outputSha256": "ec49b4ade4398f4430efe489f04ccfc5439034c651ed97f07d7eb18e6713d8f8",
+      "sourceBytes": 3926,
+      "outputBytes": 3463
+    },
+    "revision/activities.css": {
+      "sourceSha256": "d7f32336764268232cb244a0729b0d59c68ca6ba817c246a2cdd8da86e0c1c76",
+      "outputSha256": "cc6930b827c7eb16fefd13c63ef3e1641ba763dbaefcd40a21a893a5e2d81300",
+      "sourceBytes": 6809,
+      "outputBytes": 6804
+    },
+    "revision/theme.css": {
+      "sourceSha256": "33bb4d466fd37885a2f1c7a8d63471d8a24653065dfa3deff9babad95c240321",
+      "outputSha256": "461c8e45370bee5ec58e10f37ca21d76228c404db31f3b1bcbe2ab56ee3a0879",
+      "sourceBytes": 28641,
+      "outputBytes": 28115
+    },
+    "index.html": {
+      "sourceSha256": "68fb2599af2afdbbb148a1cc63bb6cc2e010b94d8d5e42462aa3231389d6879b",
+      "outputSha256": "14ecf9f92dda8ace84ea2ad1efb5aa826a4faf9796271f81a14e0909a454a029",
+      "sourceBytes": 1190,
+      "outputBytes": 1149
+    }
+  },
+  "releaseFiles": {
+    "COPYRIGHT.md": {
+      "sha256": "3bde7b1893754417274c78e435d7f96d5089941e2a1dff8404ff588625091744",
+      "bytes": 1100
+    },
+    "CREDITS.md": {
+      "sha256": "2ca1c107616ee07a006794c45031dd5918b5dcdcc5c76f9e0d03d95ebe935cf6",
+      "bytes": 772
+    },
+    "LICENSE": {
+      "sha256": "3bde7b1893754417274c78e435d7f96d5089941e2a1dff8404ff588625091744",
+      "bytes": 1100
+    },
+    "README.md": {
+      "sha256": "170022279aed01b1e993270efa3cc4cf7bdbd2589c413bab607fc9fa6ca87738",
+      "bytes": 1132
+    },
+    "Sources/music/2 قرائت تعاملي آیات 17 تا 26 سوره غاشيه.aup4.mp3": {
+      "sha256": "e80794967f5bd5f4dd5f23925b4c403e34f203d70a62f5864aaf097fdf813986",
+      "bytes": 3658024
+    },
+    "Sources/music/2 قرائت تعاملي آیات 3 تا 6 سوره فاطر.mp3": {
+      "sha256": "3c1f294dc95949b8425f7cda47a838724ff1a2664d703f2e6d3709aaa87f01e5",
+      "bytes": 4457441
+    },
+    "Sources/music/آل عمران.mp3": {
+      "sha256": "ec804c3d8de71031dbc728c911aafd0efcbbd3cc149d2d79fea228b4ffc2f811",
+      "bytes": 6312388
+    },
+    "Sources/music/احزاب کامل.mp3": {
+      "sha256": "2ce2c29942c4c5b91dcd1b3923fca77a62b49800c871b5933d287288599833bb",
+      "bytes": 403105
+    },
+    "Sources/music/احزاب.mp3": {
+      "sha256": "106939e2e9eb61b3efb2a37b8257fe3e0dfd41577f31bc2cb69bba3d756ac805",
+      "bytes": 161273
+    },
+    "Sources/music/ال عمران ایه 43.mp3": {
+      "sha256": "0f3bf21378e4e06522397041011fd05160fc17be0a2b272a1ad3b6cbb65dc20c",
+      "bytes": 191032
+    },
+    "Sources/music/ال عمران ایه 45.mp3": {
+      "sha256": "4fa3690affebba544ba8d15a969664e998120098a051fd830b899e6b7e1d3161",
+      "bytes": 219531
+    },
+    "Sources/music/بقره.mp3": {
+      "sha256": "4e579ec7db6674789cd4d99181cabbe21e8d2a6d08b89afd10225dda76999c67",
+      "bytes": 158207
+    },
+    "Sources/music/صفحه اول داستان(1).mp3": {
+      "sha256": "7de1ddd333089ff158390ce16457edb61cc9041d2a5d33a33a1a9b625d0b113f",
+      "bytes": 1875182
+    },
+    "Sources/music/صفحه دوم داستان.mp3": {
+      "sha256": "2c55137e1c496de52cc3399892cdbca44d8646e4d038e660a23ad739eda4acf3",
+      "bytes": 1404142
+    },
+    "Sources/music/صوت قطره اما دریا.mp3": {
+      "sha256": "ed8f2756d7f4f3390fb505c0c7aa159b0b595f1ef6d501c04d60d6e17505ea7b",
+      "bytes": 159878
+    },
+    "Sources/music/قسمت اخر داستان.mp3": {
+      "sha256": "0ee0fe408474707288bac5e7ea62678fccf37410c505ddf03d1f518c09f0fd6d",
+      "bytes": 1317757
+    },
+    "Sources/music/مريم 30.mp3": {
+      "sha256": "a0f9b8d2391b209f85abbe10e49e236521503d038844c33f488ce6886807259b",
+      "bytes": 163131
+    },
+    "Sources/music/کهف.mp3": {
+      "sha256": "5646c1d6d413005cd92d4bfa43ae80ac04c0a2172f85de84e8b9f4d0d1e3e730",
+      "bytes": 180856
+    },
+    "Sources/ایات.json": {
+      "sha256": "9a856bbfa2a9ffe5bf711f6bb8dd1a4d6b1995e11c56023c6f7afe3a82814bf7",
+      "bytes": 22389
+    },
+    "Sources/صفحه 16 تا 26 سوره غاشیه.png": {
+      "sha256": "feaf422c37549262ae40aad1ac913a09ce9b3b6b32045abc34f2067586c89c75",
+      "bytes": 109838
+    },
+    "Sources/صفحه سوره ال عمران.png": {
+      "sha256": "def9a6fd636b3adf6b54ce7953098dc8394150cde768f733cc37b731e18c4ba2",
+      "bytes": 414116
+    },
+    "Sources/صفحه سوره فاطر.png": {
+      "sha256": "dc6095746021b96100a8b0c1049b1b42acd0c4cebb7745e5d31149ad3a053518",
+      "bytes": 321229
+    },
+    "Sources/صوت فارسی.json": {
+      "sha256": "32e549f10422fbd2e62787322453b04eb9ee0df7fa59f6e846a1900a99656b5e",
+      "bytes": 48552
+    },
+    "index.html": {
+      "sha256": "14ecf9f92dda8ace84ea2ad1efb5aa826a4faf9796271f81a14e0909a454a029",
+      "bytes": 1149
+    },
+    "revision/activities.css": {
+      "sha256": "cc6930b827c7eb16fefd13c63ef3e1641ba763dbaefcd40a21a893a5e2d81300",
+      "bytes": 6804
+    },
+    "revision/activities.js": {
+      "sha256": "03c55796226f933afe3c726693e2ae549a682efc0640620b7f9067fc03e6ebe6",
+      "bytes": 8893
+    },
+    "revision/activity-model.js": {
+      "sha256": "2806febaa2152deb4666aec9e0e80dac9fb2bb112470438baa80529e57dfb68d",
+      "bytes": 5526
+    },
+    "revision/app.js": {
+      "sha256": "f5b16fc5ec978d7cb82406c03a7229210e30c78f6a7a4c6c6e66bff3d99b930b",
+      "bytes": 10001
+    },
+    "revision/lesson-content.js": {
+      "sha256": "5ec6a007ee282cfe651ca0f4b2453795074ea796da50a037bd6fb9ef1d177cd7",
+      "bytes": 13494
+    },
+    "revision/player.js": {
+      "sha256": "524d5d098a0edee4839e59dcb1a50027a03407c8be7197db39bc977ef715332f",
+      "bytes": 5498
+    },
+    "revision/safety.js": {
+      "sha256": "6d00c2f3c5f6a66484457aa45a37575fb355284bfc03ea4c4b33d04bb9e77526",
+      "bytes": 218
+    },
+    "revision/theme.css": {
+      "sha256": "461c8e45370bee5ec58e10f37ca21d76228c404db31f3b1bcbe2ab56ee3a0879",
+      "bytes": 28115
+    },
+    "src/assets.js": {
+      "sha256": "b21f845ac57d7ecb560741e609bcd5b477fc17115dbc58324c4d9de1e6de1b01",
+      "bytes": 854
+    },
+    "src/content.js": {
+      "sha256": "8d1ee336e74d65a7f9474407c64e9ea6f8e66ebebcc205acd7220f72aec4b449",
+      "bytes": 770
+    },
+    "src/curriculum.js": {
+      "sha256": "b86baea13e0c540df88f4a9c14995593ba91d6b3c41f8ce24458cfadfc9191cd",
+      "bytes": 1917
+    },
+    "src/fonts/AmiriQuran-Regular.ttf": {
+      "sha256": "6814dda5c41a412ce873da0551b11fa924d01f79592e6294b702911e49b9d3a6",
+      "bytes": 136256
+    },
+    "src/fonts/NOTO-LICENSE.txt": {
+      "sha256": "075f91382875da1c4b491f1facf2586f55448705133264d98ce15cab6211b125",
+      "bytes": 5208
+    },
+    "src/fonts/NotoNaskhArabic-Regular.ttf": {
+      "sha256": "8c67eaa2f0086872628fc3f7f760386f83c8be5c5e9a1ba3a38891237b2ac7cb",
+      "bytes": 175792
+    },
+    "src/fonts/VAZIRMATN-LICENSE-NOTICE.txt": {
+      "sha256": "9f7a6d59a7417b5311a11cde095a8cf65ce82ccbd969af9cdd7c6da277e446ba",
+      "bytes": 355
+    },
+    "src/fonts/Vazirmatn-Regular.ttf": {
+      "sha256": "443e920a022a89a93d4764a06e853342b9008fba880eb827d814160f1e459c05",
+      "bytes": 126728
+    },
+    "src/media/book/connection-exercise-clean.png": {
+      "sha256": "afe826ae6d89621bab4c52cf32cde3d263f3f6b3f95695198009863f449eed52",
+      "bytes": 104458
+    },
+    "src/media/book/page44-exercise4.png": {
+      "sha256": "ed107437312541d0f458ff941d6b7b0a73f6c2d8396c4275d15383b47cf65365",
+      "bytes": 181577
+    },
+    "src/media/book/page44-line1.png": {
+      "sha256": "fedd156b4d198c438f1f38f19ca9eaaf709ce592a8bec119aab535f0969c842e",
+      "bytes": 57767
+    },
+    "src/media/book/page44-line2.png": {
+      "sha256": "19f17ebc0f86d9671dbfdcd09c2de1c8376bfd31164ed077c7407d9080cea35e",
+      "bytes": 55498
+    },
+    "src/media/illustrations/01-mihrab.webp": {
+      "sha256": "9a09848a7237fde47743ede1b88115d8d22ccd37198936254c8379180b1280d1",
+      "bytes": 149786
+    },
+    "src/media/illustrations/02-night-study.webp": {
+      "sha256": "5d0dc6674e8f7b83698fe1a519516591e772c8106c929a2db6665466ee61bf5f",
+      "bytes": 140292
+    },
+    "src/media/illustrations/03-garden-path.webp": {
+      "sha256": "3f922e08d9c402c14a5341025cda5fd00778002e591c9e36bf8834979a133117",
+      "bytes": 152020
+    },
+    "src/media/illustrations/04-fruit.webp": {
+      "sha256": "ce31e8e29ea670bcdfee2205834ac712e4d961427b25115788994e4c7aa9df27",
+      "bytes": 143810
+    },
+    "src/media/story/01-arrival-desktop.webp": {
+      "sha256": "a1d3aed4d9141625feb14e088e2d0ec7ceb06dee7b0142b06ed66d884d3045f9",
+      "bytes": 186384
+    },
+    "src/media/story/01-arrival-mobile.webp": {
+      "sha256": "43d81d61d2833f871ace8422ce2b1944c37764949c3c844ddb4556dffc6f3ee9",
+      "bytes": 56852
+    },
+    "src/media/story/02-memory-desktop.webp": {
+      "sha256": "e99872439eb78879d7faa6f6fdde9d652d1db489e10cc93dab492dff2e49c015",
+      "bytes": 180362
+    },
+    "src/media/story/02-memory-mobile.webp": {
+      "sha256": "2e5311acc8f14441cf6761d7c4622eaab6e792d4507df7463a44b130fdf6bc5c",
+      "bytes": 63426
+    },
+    "src/media/story/03-lots-desktop.webp": {
+      "sha256": "e4d151ba9d33a3ab8129437d330cd67d6eb89210de2459cb6febd1544775e46a",
+      "bytes": 156978
+    },
+    "src/media/story/03-lots-mobile.webp": {
+      "sha256": "d3a339f1eda0b3f553cf84e2eeeec5b6029b990bf499a72c7616ca6d9fde8b9a",
+      "bytes": 53494
+    },
+    "src/media/story/04-prayer-niche-desktop.webp": {
+      "sha256": "83683338850c272794986438719076ed28d419f34339120ff375982ae305dc02",
+      "bytes": 135116
+    },
+    "src/media/story/04-prayer-niche-mobile.webp": {
+      "sha256": "90679dc74d02aef8eb0386bfcf976f67a66eb177fb3be0aedb2e8d40fb2ab982",
+      "bytes": 49222
+    },
+    "src/media/story/05-fruit-desktop.webp": {
+      "sha256": "82e65688e11bdde1f6b5aee01e8dca54affb4729b6093f0b03bf0444049255b5",
+      "bytes": 164758
+    },
+    "src/media/story/05-fruit-mobile.webp": {
+      "sha256": "aa7e7f94c8987cd95b87a955352c15ee048e350ac507982b47884400d284e884",
+      "bytes": 58452
+    },
+    "src/media/story/06-hope-desktop.webp": {
+      "sha256": "b4f88fe92683de814418986ba2e69116e71141b55668c7cc459c94f666225dab",
+      "bytes": 158650
+    },
+    "src/media/story/06-hope-mobile.webp": {
+      "sha256": "f635283af99a68d23ccfaf3e22c4292d4511e7a0efbe8bef87cd13cb71ec09d3",
+      "bytes": 55334
+    },
+    "src/media/visuals/connection-bridge.svg": {
+      "sha256": "d650270795932921c150f237ddb4317bdee253582548891773c1b888fa723c08",
+      "bytes": 764
+    },
+    "src/media/visuals/entrance-arch.svg": {
+      "sha256": "8b7b8876dda0b18ccc15310cc431556328866070511b4b332f72419fa56788c5",
+      "bytes": 709
+    },
+    "src/media/visuals/light-house-idle.svg": {
+      "sha256": "9687e2169232f85f54fb89c14251005e1eb684557e27809cf5c0cdf35b8efd5a",
+      "bytes": 631
+    },
+    "src/media/visuals/light-house-selected.svg": {
+      "sha256": "1b0d60618089109603e4fd75536740b73ad3ec2fabc73b577f2782ecea4b9819",
+      "bytes": 735
+    },
+    "src/media/visuals/listening-drop.svg": {
+      "sha256": "3a49bb14ef096696a221803f0d937fabbd067712365305f4fe4bc506ba471e91",
+      "bytes": 642
+    },
+    "src/media/visuals/meaning-key.svg": {
+      "sha256": "bfeed2faee917c8ae2ad5883dcfa2018cd0d39e32cbe56c18f0e7e87eecec5ae",
+      "bytes": 508
+    },
+    "src/media/visuals/reading-flow.svg": {
+      "sha256": "81d868fcd1ec98dca19cf28ca7650cca38b347b2d2cb832871a81c0e4b85f7b2",
+      "bytes": 747
+    },
+    "src/media/visuals/reading-frame.svg": {
+      "sha256": "84993e2498f54f1a86534627bcdda5112ca9a8ae666e14fd43058f618b1c84f3",
+      "bytes": 669
+    },
+    "src/media/visuals/review-orbit.svg": {
+      "sha256": "8e735a4829c3923b7d2ae695a62a0ebad526b269a02fed1f4fae029b8952e919",
+      "bytes": 718
+    },
+    "src/media/visuals/session-path.svg": {
+      "sha256": "50b34009375f461303deb234063ac91fdc206ac072eeb08564d0cc9e196e2e1b",
+      "bytes": 714
+    },
+    "src/media/visuals/translation-slots.svg": {
+      "sha256": "2c86c2127b254e00155cb0b90857e04474b4f36ba0433233cdf68c059833358f",
+      "bytes": 607
+    },
+    "src/quran-phrase-map.json": {
+      "sha256": "8ee25167832df0351e4b6cb0069bd0e64ab0f5edf33671c5301830277a9fd1ca",
+      "bytes": 7952
+    },
+    "src/ui/components.js": {
+      "sha256": "ec49b4ade4398f4430efe489f04ccfc5439034c651ed97f07d7eb18e6713d8f8",
+      "bytes": 3463
+    }
+  }
+}

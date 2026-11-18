@@ -1,0 +1,1355 @@
+{
+  "schema_version": "persian-texts-1.0",
+  "project": "mehrab-noor-persian-texts",
+  "extraction_status": "partial_needs_review",
+  "text_reference": "Sources/54-59.pdf and supplied working transcripts; see Extraction-Report.md",
+  "items": [
+    {
+      "id": "ST10",
+      "order": 1,
+      "text": "حضرت زکریّا، عصازنان وارد حیاط بزرگ مسجدُالاقصی شد. به سختی از پلّه‌های چوبی کنار حیاط بالا رفت و به محلّ عبادت حضرت مریم، که خودش آن را برای او آماده کرده بود، نزدیک شد. زمزمه‌ای دلنشین به گوش می‌رسید. حضرت زکریّا با خود گفت: این دختر همیشه در حال عبادت است!",
+      "topic": "روایت زکریا و مریم؛ صفحهٔ چاپی ۴۲، بند 1",
+      "printed_page": 42,
+      "pdf_page": 2,
+      "type": "ST",
+      "parent_id": null,
+      "review_status": "handoff transcript; OCR corroborates content, letter-for-letter PDF review pending",
+      "audio_ranges": [
+        {
+          "interval_id": "b5cf8f83-240f-4161-835d-f8a15f7292f3",
+          "text_id": "ST10",
+          "audio_file_name": "صفحه اول داستان(1).mp3",
+          "audio_file_size": 1875182,
+          "start_seconds": 0,
+          "end_seconds": 31.658,
+          "execution_number": 2,
+          "needs_review": false,
+          "review_history": []
+        }
+      ],
+      "source": {
+        "primary_file": "Sources/54-59.pdf",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "transcription_file": "02-Story-Scenario.md",
+        "evidence": "Copied verbatim from the handoff story transcription; page OCR is partial and not sufficient for final typography verification."
+      }
+    },
+    {
+      "id": "ST11",
+      "order": 2,
+      "text": "به یاد روزی افتاد که حضرت مریم دختر بچّه‌ای خردسال بود و مادرش برای انجام نذر خود، او را نزد علمای دین آورد. مریم اوّلین دختری بود که مادرش او را نذر خدمت و عبادت خانه‌ی خدا کرد. پیش از آن فقط پسران را نذر می‌کردند!",
+      "topic": "روایت زکریا و مریم؛ صفحهٔ چاپی ۴۲، بند 2",
+      "printed_page": 42,
+      "pdf_page": 2,
+      "type": "ST",
+      "parent_id": null,
+      "review_status": "handoff transcript; OCR corroborates content, letter-for-letter PDF review pending",
+      "audio_ranges": [
+        {
+          "interval_id": "b6713d46-82c8-4747-a0ae-31941dba5987",
+          "text_id": "ST11",
+          "audio_file_name": "صفحه اول داستان(1).mp3",
+          "audio_file_size": 1875182,
+          "start_seconds": 31.631,
+          "end_seconds": 52.175,
+          "execution_number": 2,
+          "needs_review": false,
+          "review_history": [
+            {
+              "at": "2026-11-16T22:15:45.883Z",
+              "reason": "user verified"
+            },
+            {
+              "at": "2026-11-16T22:15:48.115Z",
+              "reason": "time edited",
+              "start_seconds": 31.631,
+              "end_seconds": 52.175
+            }
+          ]
+        }
+      ],
+      "source": {
+        "primary_file": "Sources/54-59.pdf",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "transcription_file": "02-Story-Scenario.md",
+        "evidence": "Copied verbatim from the handoff story transcription; page OCR is partial and not sufficient for final typography verification."
+      }
+    },
+    {
+      "id": "ST12",
+      "order": 3,
+      "text": "پدر مریم، حضرت عِمران، سال‌ها پیش از دنیا رفته بود و همه‌ی علمای بیتُ‌المُقدّس دوست داشتند سرپرستی حضرت مریم را به عهده گیرند. با آن که حضرت زکریّا شوهرخاله‌ی او بود، رضایت داد برای انتخاب سرپرست حضرت مریم قرعه‌کشی شود. همه در تب و تاب بودند. لب‌ها به ذکر تکان می‌خورد و چشم‌ها نگران بود. ناگهان در مقابل چشم همه، قرعه به نام حضرت زکریّا درآمد. او خوشحال شد و سجده‌ی شکر به‌جای آورد.",
+      "topic": "روایت زکریا و مریم؛ صفحهٔ چاپی ۴۲، بند 3",
+      "printed_page": 42,
+      "pdf_page": 2,
+      "type": "ST",
+      "parent_id": null,
+      "review_status": "handoff transcript; OCR corroborates content, letter-for-letter PDF review pending",
+      "audio_ranges": [
+        {
+          "interval_id": "a56aa83f-670e-463e-82ba-c998c6ce4ddb",
+          "text_id": "ST12",
+          "audio_file_name": "صفحه اول داستان(1).mp3",
+          "audio_file_size": 1875182,
+          "start_seconds": 52.475,
+          "end_seconds": 88.688,
+          "execution_number": 1,
+          "needs_review": false,
+          "review_history": []
+        }
+      ],
+      "source": {
+        "primary_file": "Sources/54-59.pdf",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "transcription_file": "02-Story-Scenario.md",
+        "evidence": "Copied verbatim from the handoff story transcription; page OCR is partial and not sufficient for final typography verification."
+      }
+    },
+    {
+      "id": "ST13",
+      "order": 4,
+      "text": "خاطرات گذشته، فکر حضرت زکریّا را مشغول کرده بود که او به اتاق حضرت مریم رسید. در زد و به آرامی وارد شد. حضرت مریم در محراب مشغول دعا و نیایش بود. پرده‌ای از اشک جلوی چشمان حضرت زکریّا را پوشاند. زیر لب دعا کرد: خدایا! عبادت‌های این بنده‌ی پاک خود را بپذیر.",
+      "topic": "روایت زکریا و مریم؛ صفحهٔ چاپی ۴۲، بند 4",
+      "printed_page": 42,
+      "pdf_page": 2,
+      "type": "ST",
+      "parent_id": null,
+      "review_status": "handoff transcript; OCR corroborates content, letter-for-letter PDF review pending",
+      "audio_ranges": [
+        {
+          "interval_id": "75ee2b93-9d4a-45d6-9b3f-fff332b68d5a",
+          "text_id": "ST13",
+          "audio_file_name": "صفحه اول داستان(1).mp3",
+          "audio_file_size": 1875182,
+          "start_seconds": 89.009,
+          "end_seconds": 116.102,
+          "execution_number": 1,
+          "needs_review": false,
+          "review_history": []
+        }
+      ],
+      "source": {
+        "primary_file": "Sources/54-59.pdf",
+        "pdf_page": 2,
+        "printed_page": 42,
+        "transcription_file": "02-Story-Scenario.md",
+        "evidence": "Copied verbatim from the handoff story transcription; page OCR is partial and not sufficient for final typography verification."
+      }
+    },
+    {
+      "id": "ST14",
+      "order": 5,
+      "text": "بار دیگر به سوی محراب نگاه کرد، ظرفی پر از میوه‌های رنگارنگ کنار سجّاده‌ی حضرت مریم، توجّه حضرت زکریّا را به خود جلب کرد. می‌خواست بداند چه کسی به ملاقات مریم آمده و آن ظرف میوه را برایش آورده است.",
+      "topic": "روایت زکریا و مریم؛ صفحهٔ چاپی ۴۳، بند 1",
+      "printed_page": 43,
+      "pdf_page": 3,
+      "type": "ST",
+      "parent_id": null,
+      "review_status": "handoff transcript; OCR corroborates content, letter-for-letter PDF review pending",
+      "audio_ranges": [
+        {
+          "interval_id": "7f4d2b91-8367-4a71-9c7b-6f8d0f45cab8",
+          "text_id": "ST14",
+          "audio_file_name": "صفحه دوم داستان.mp3",
+          "audio_file_size": 1404142,
+          "start_seconds": 0,
+          "end_seconds": 18.451,
+          "execution_number": 1,
+          "needs_review": false,
+          "review_history": []
+        }
+      ],
+      "source": {
+        "primary_file": "Sources/54-59.pdf",
+        "pdf_page": 3,
+        "printed_page": 43,
+        "transcription_file": "02-Story-Scenario.md",
+        "evidence": "Copied verbatim from the handoff story transcription; Arabic Quranic quotations and footnotes are outside the Persian segment text."
+      }
+    },
+    {
+      "id": "ST15",
+      "order": 6,
+      "text": "نماز حضرت مریم تمام شد. آهسته سر برگرداند و سلام کرد و پرسید: عموجان چه شده است، نگرانید!",
+      "topic": "روایت زکریا و مریم؛ صفحهٔ چاپی ۴۳، بند 2",
+      "printed_page": 43,
+      "pdf_page": 3,
+      "type": "ST",
+      "parent_id": null,
+      "review_status": "handoff transcript; OCR corroborates content, letter-for-letter PDF review pending",
+      "audio_ranges": [
+        {
+          "interval_id": "8838a1c7-7e50-4c10-a863-ad6779743578",
+          "text_id": "ST15",
+          "audio_file_name": "صفحه دوم داستان.mp3",
+          "audio_file_size": 1404142,
+          "start_seconds": 18.875,
+          "end_seconds": 29.236,
+          "execution_number": 1,
+          "needs_review": false,
+          "review_history": []
+        }
+      ],
+      "source": {
+        "primary_file": "Sources/54-59.pdf",
+        "pdf_page": 3,
+        "printed_page": 43,
+        "transcription_file": "02-Story-Scenario.md",
+        "evidence": "Copied verbatim from the handoff story transcription; Arabic Quranic quotations and footnotes are outside the Persian segment text."
+      }
+    },
+    {
+      "id": "ST16",
+      "order": 7,
+      "text": "حضرت زکریّا نتوانست لب باز کند. حضرت مریم برخاست و سبدی را که پر از نارنگی و انگور و انار و گلابی بود، مقابل حضرت زکریّا گرفت و گفت: بفرمایید.",
+      "topic": "روایت زکریا و مریم؛ صفحهٔ چاپی ۴۳، بند 3",
+      "printed_page": 43,
+      "pdf_page": 3,
+      "type": "ST",
+      "parent_id": null,
+      "review_status": "handoff transcript; OCR corroborates content, letter-for-letter PDF review pending",
+      "audio_ranges": [
+        {
+          "interval_id": "f2f9bbf8-9bd1-4b08-91c7-478958dcecf1",
+          "text_id": "ST16",
+          "audio_file_name": "صفحه دوم داستان.mp3",
+          "audio_file_size": 1404142,
+          "start_seconds": 30.131,
+          "end_seconds": 43.427,
+          "execution_number": 1,
+          "needs_review": false,
+          "review_history": []
+        }
+      ],
+      "source": {
+        "primary_file": "Sources/54-59.pdf",
+        "pdf_page": 3,
+        "printed_page": 43,
+        "transcription_file": "02-Story-Scenario.md",
+        "evidence": "Copied verbatim from the handoff story transcription; Arabic Quranic quotations and footnotes are outside the Persian segment text."
+      }
+    },
+    {
+      "id": "ST17",
+      "order": 8,
+      "text": "حضرت زکریّا با تعجّب پرسید: میوه‌های پاییزی؟ اکنون؟ در آغاز بهار؟!",
+      "topic": "روایت زکریا و مریم؛ صفحهٔ چاپی ۴۳، بند 4",
+      "printed_page": 43,
+      "pdf_page": 3,
+      "type": "ST",
+      "parent_id": null,
+      "review_status": "handoff transcript; OCR corroborates content, letter-for-letter PDF review pending",
+      "audio_ranges": [
+        {
+          "interval_id": "896fed3d-ffab-41ff-9d4c-09186e329d8a",
+          "text_id": "ST17",
+          "audio_file_name": "صفحه دوم داستان.mp3",
+          "audio_file_size": 1404142,
+          "start_seconds": 43.669,
+          "end_seconds": 51.018,
+          "execution_number": 1,
+          "needs_review": false,
+          "review_history": []
+        }
+      ],
+      "source": {
+        "primary_file": "Sources/54-59.pdf",
+        "pdf_page": 3,
+        "printed_page": 43,
+        "transcription_file": "02-Story-Scenario.md",
+        "evidence": "Copied verbatim from the handoff story transcription; Arabic Quranic quotations and footnotes are outside the Persian segment text."
+      }
+    },
+    {
+      "id": "ST18",
+      "order": 9,
+      "text": "حضرت مریم با چهره‌ای گشاده گفت:",
+      "topic": "روایت زکریا و مریم؛ صفحهٔ چاپی ۴۳، بند 5",
+      "printed_page": 43,
+      "pdf_page": 3,
+      "type": "ST",
+      "parent_id": null,
+      "review_status": "handoff transcript; OCR corroborates content, letter-for-letter PDF review pending",
+      "audio_ranges": [
+        {
+          "interval_id": "ae5e0f9d-82c0-483d-8374-338f7cc1bf36",
+          "text_id": "ST18",
+          "audio_file_name": "صفحه دوم داستان.mp3",
+          "audio_file_size": 1404142,
+          "start_seconds": 51.95,
+          "end_seconds": 54.921,
+          "execution_number": 1,
+          "needs_review": false,
+          "review_history": []
+        }
+      ],
+      "source": {
+        "primary_file": "Sources/54-59.pdf",
+        "pdf_page": 3,
+        "printed_page": 43,
+        "transcription_file": "02-Story-Scenario.md",
+        "related_text_ids": [
+          "S01",
+          "S02"
+        ],
+        "evidence": "Copied verbatim from the handoff story transcription; Arabic Quranic quotations and footnotes are outside the Persian segment text."
+      }
+    },
+    {
+      "id": "ST19",
+      "order": 10,
+      "text": "«هُوَ مِنْ عِنْدِ اللَّهِ، إِنَّ اللَّهَ يَرْزُقُ مَنْ يَشَاءُ بِغَيْرِ حِسَابٍ» «این‌ها میوه‌های بهشت هستند. خداوند به هر کس که بخواهد نعمت‌های بسیاری می‌بخشد.»",
+      "topic": "روایت زکریا و مریم؛ صفحهٔ چاپی ۴۳، بند 6",
+      "printed_page": 43,
+      "pdf_page": 3,
+      "type": "ST",
+      "parent_id": null,
+      "review_status": "edited_needs_review",
+      "audio_ranges": [
+        {
+          "interval_id": "91cd3bac-d46c-4193-9aa1-2cb0d02c6d29",
+          "text_id": "ST19",
+          "audio_file_name": "صفحه دوم داستان.mp3",
+          "audio_file_size": 1404142,
+          "start_seconds": 55.234,
+          "end_seconds": 69.056,
+          "execution_number": 1,
+          "needs_review": false,
+          "review_history": []
+        }
+      ],
+      "source": {
+        "primary_file": "Sources/54-59.pdf",
+        "pdf_page": 3,
+        "printed_page": 43,
+        "transcription_file": "02-Story-Scenario.md",
+        "related_text_ids": [
+          "S01",
+          "S02"
+        ],
+        "evidence": "Copied verbatim from the handoff story transcription; Arabic Quranic quotations and footnotes are outside the Persian segment text."
+      }
+    },
+    {
+      "id": "ST20",
+      "order": 11,
+      "text": "حضرت زکریّا که این معجزه را دید در دلش نور امیدی پیدا شد؛ دست به سوی آسمان بلند کرد و زیر لب گفت:",
+      "topic": "روایت زکریا و مریم؛ صفحهٔ چاپی ۴۳، بند 7",
+      "printed_page": 43,
+      "pdf_page": 3,
+      "type": "ST",
+      "parent_id": null,
+      "review_status": "handoff transcript; OCR corroborates content, letter-for-letter PDF review pending",
+      "audio_ranges": [
+        {
+          "interval_id": "7b9ad69e-5654-419c-8eb6-50dff6b78b03",
+          "text_id": "ST20",
+          "audio_file_name": "صفحه دوم داستان.mp3",
+          "audio_file_size": 1404142,
+          "start_seconds": 69.393,
+          "end_seconds": 79.46,
+          "execution_number": 1,
+          "needs_review": false,
+          "review_history": []
+        }
+      ],
+      "source": {
+        "primary_file": "Sources/54-59.pdf",
+        "pdf_page": 3,
+        "printed_page": 43,
+        "transcription_file": "02-Story-Scenario.md",
+        "related_text_ids": [
+          "S01",
+          "S02"
+        ],
+        "evidence": "Copied verbatim from the handoff story transcription; Arabic Quranic quotations and footnotes are outside the Persian segment text."
+      }
+    },
+    {
+      "id": "ST21",
+      "order": 12,
+      "text": "«رَبِّ هَبْ لِي مِنْ لَدُنْكَ ذُرِّيَّةً طَيِّبَةً، إِنَّكَ سَمِيعُ الدُّعَاءِ» «خدایا! به من نیز نسل شایسته‌ای ببخش که همانا تو شنونده و مستجاب‌کننده‌ی دعا هستی.»",
+      "topic": "روایت زکریا و مریم؛ صفحهٔ چاپی ۴۳، بند 8",
+      "printed_page": 43,
+      "pdf_page": 3,
+      "type": "ST",
+      "parent_id": null,
+      "review_status": "edited_needs_review",
+      "audio_ranges": [
+        {
+          "interval_id": "02f8923f-3b2d-4e76-bf38-33dca2e2c1f7",
+          "text_id": "ST21",
+          "audio_file_name": "قسمت اخر داستان.mp3",
+          "audio_file_size": 1317757,
+          "start_seconds": 79.011,
+          "end_seconds": 95.171,
+          "execution_number": 1,
+          "needs_review": false,
+          "review_history": []
+        }
+      ],
+      "source": {
+        "primary_file": "Sources/54-59.pdf",
+        "pdf_page": 3,
+        "printed_page": 43,
+        "transcription_file": "02-Story-Scenario.md",
+        "related_text_ids": [
+          "S01",
+          "S02"
+        ],
+        "evidence": "Copied verbatim from the handoff story transcription; Arabic Quranic quotations and footnotes are outside the Persian segment text."
+      }
+    },
+    {
+      "id": "ST24",
+      "order": 13,
+      "text": "امام صادق علیه‌السلام: هرگاه در نزد تو قرآن خوانده شود، لازم است ساکت باشی و گوش کنی.",
+      "topic": "حدیث «قطره اما دریا»",
+      "printed_page": 45,
+      "pdf_page": 5,
+      "type": "ST",
+      "parent_id": null,
+      "review_status": "master D01 and PDF OCR corroborate; citation footnote excluded",
+      "audio_ranges": [
+        {
+          "interval_id": "8c940b6f-26df-41b9-b776-f6891798c474",
+          "text_id": "ST24",
+          "audio_file_name": "صوت قطره اما دریا.mp3",
+          "audio_file_size": 159878,
+          "start_seconds": 0,
+          "end_seconds": 8.8,
+          "execution_number": 1,
+          "needs_review": false,
+          "review_history": []
+        }
+      ],
+      "source": {
+        "primary_file": "Sources/54-59.pdf",
+        "pdf_page": 5,
+        "printed_page": 45,
+        "transcription_file": "Archive/Master-original-1.4-filename.md",
+        "related_text_ids": [
+          "D01"
+        ],
+        "evidence": "Persian hadith attribution and text copied from master D01; PDF OCR supports the wording. The printed source citation is a footnote and omitted by instruction."
+      }
+    }
+  ],
+  "retired_items": [
+    {
+      "id": "ST01",
+      "order": 2,
+      "text": "زمانی را یاد کن که همسر عمران گفت: خدایا، فرزند درونم را، برای خدمت به دین تو نذر کردم.",
+      "topic": "ترجمهٔ چاپی؛ آل‌عمران ۳۵–۳۷؛ بخش A01",
+      "printed_page": 41,
+      "pdf_page": 1,
+      "type": "ST",
+      "parent_id": "EX01",
+      "review_status": "edited_needs_review",
+      "audio_ranges": [],
+      "source": {
+        "primary_file": "Sources/54-59.pdf",
+        "pdf_page": 1,
+        "printed_page": 41,
+        "transcription_file": "Archive/Master-original-1.4-filename.md",
+        "related_text_ids": [
+          "A01"
+        ],
+        "evidence": "Copied verbatim from the master working transcript (section A); PDF OCR corroborates, but punctuation/diacritics need visual review."
+      },
+      "retired_reason": "deleted",
+      "retired_at": "2026-11-15T20:52:57.862Z"
+    },
+    {
+      "id": "ST02",
+      "order": 2,
+      "text": "تا آزاد باشد؛ پس تو نیز از من قبول کن، که البته تو شنوا و دانایی.",
+      "topic": "ترجمهٔ چاپی؛ آل‌عمران ۳۵–۳۷؛ بخش A02",
+      "printed_page": 41,
+      "pdf_page": 1,
+      "type": "ST",
+      "parent_id": "EX01",
+      "review_status": "edited_needs_review",
+      "audio_ranges": [],
+      "source": {
+        "primary_file": "Sources/54-59.pdf",
+        "pdf_page": 1,
+        "printed_page": 41,
+        "transcription_file": "Archive/Master-original-1.4-filename.md",
+        "related_text_ids": [
+          "A02"
+        ],
+        "evidence": "Copied verbatim from the master working transcript (section A); PDF OCR corroborates, but punctuation/diacritics need visual review."
+      },
+      "retired_reason": "deleted",
+      "retired_at": "2026-11-15T20:53:00.408Z"
+    },
+    {
+      "id": "ST03",
+      "order": 2,
+      "text": "وقتی او را به دنیا آورد، گفت: خدایا، فرزندی که به دنیا آورده‌ام، دختر است. و البته خدا داناتر بود.",
+      "topic": "ترجمهٔ چاپی؛ آل‌عمران ۳۵–۳۷؛ بخش A03",
+      "printed_page": 41,
+      "pdf_page": 1,
+      "type": "ST",
+      "parent_id": "EX01",
+      "review_status": "edited_needs_review",
+      "audio_ranges": [],
+      "source": {
+        "primary_file": "Sources/54-59.pdf",
+        "pdf_page": 1,
+        "printed_page": 41,
+        "transcription_file": "Archive/Master-original-1.4-filename.md",
+        "related_text_ids": [
+          "A03"
+        ],
+        "evidence": "Copied verbatim from the master working transcript (section A); PDF OCR corroborates, but punctuation/diacritics need visual review."
+      },
+      "retired_reason": "deleted",
+      "retired_at": "2026-11-15T20:53:03.243Z"
+    },
+    {
+      "id": "ST04",
+      "order": 2,
+      "text": "به فرزندی که آورده بود؛ و پسر، مانند دختر نیست. او گفت: من نامش را مریم گذاشتم.",
+      "topic": "ترجمهٔ چاپی؛ آل‌عمران ۳۵–۳۷؛ بخش A04",
+      "printed_page": 41,
+      "pdf_page": 1,
+      "type": "ST",
+      "parent_id": "EX01",
+      "review_status": "edited_needs_review",
+      "audio_ranges": [],
+      "source": {
+        "primary_file": "Sources/54-59.pdf",
+        "pdf_page": 1,
+        "printed_page": 41,
+        "transcription_file": "Archive/Master-original-1.4-filename.md",
+        "related_text_ids": [
+          "A04"
+        ],
+        "evidence": "Copied verbatim from the master working transcript (section A); PDF OCR corroborates, but punctuation/diacritics need visual review."
+      },
+      "retired_reason": "deleted",
+      "retired_at": "2026-11-15T20:53:07.163Z"
+    },
+    {
+      "id": "ST05",
+      "order": 2,
+      "text": "و در پناه تو قرار دادم، او را و فرزندانش را، از شرّ شیطان رانده‌شده.",
+      "topic": "ترجمهٔ چاپی؛ آل‌عمران ۳۵–۳۷؛ بخش A05",
+      "printed_page": 41,
+      "pdf_page": 1,
+      "type": "ST",
+      "parent_id": "EX01",
+      "review_status": "edited_needs_review",
+      "audio_ranges": [],
+      "source": {
+        "primary_file": "Sources/54-59.pdf",
+        "pdf_page": 1,
+        "printed_page": 41,
+        "transcription_file": "Archive/Master-original-1.4-filename.md",
+        "related_text_ids": [
+          "A05"
+        ],
+        "evidence": "Copied verbatim from the master working transcript (section A); PDF OCR corroborates, but punctuation/diacritics need visual review."
+      },
+      "retired_reason": "deleted",
+      "retired_at": "2026-11-15T20:53:09.223Z"
+    },
+    {
+      "id": "ST06",
+      "order": 2,
+      "text": "در نتیجه، پروردگارش به خوبی آن دختر را پذیرفت و او را به خوبی پرورش داد.",
+      "topic": "ترجمهٔ چاپی؛ آل‌عمران ۳۵–۳۷؛ بخش A06",
+      "printed_page": 41,
+      "pdf_page": 1,
+      "type": "ST",
+      "parent_id": "EX01",
+      "review_status": "edited_needs_review",
+      "audio_ranges": [],
+      "source": {
+        "primary_file": "Sources/54-59.pdf",
+        "pdf_page": 1,
+        "printed_page": 41,
+        "transcription_file": "Archive/Master-original-1.4-filename.md",
+        "related_text_ids": [
+          "A06"
+        ],
+        "evidence": "Copied verbatim from the master working transcript (section A); PDF OCR corroborates, but punctuation/diacritics need visual review."
+      },
+      "retired_reason": "deleted",
+      "retired_at": "2026-11-15T20:53:12.808Z"
+    },
+    {
+      "id": "ST07",
+      "order": 2,
+      "text": "و زکریا را سرپرست او ساخت. هر بار که زکریا در محراب عبادت، به نزد مریم می‌رفت،",
+      "topic": "ترجمهٔ چاپی؛ آل‌عمران ۳۵–۳۷؛ بخش A07",
+      "printed_page": 41,
+      "pdf_page": 1,
+      "type": "ST",
+      "parent_id": "EX01",
+      "review_status": "edited_needs_review",
+      "audio_ranges": [],
+      "source": {
+        "primary_file": "Sources/54-59.pdf",
+        "pdf_page": 1,
+        "printed_page": 41,
+        "transcription_file": "Archive/Master-original-1.4-filename.md",
+        "related_text_ids": [
+          "A07"
+        ],
+        "evidence": "Copied verbatim from the master working transcript (section A); PDF OCR corroborates, but punctuation/diacritics need visual review."
+      },
+      "retired_reason": "deleted",
+      "retired_at": "2026-11-15T20:53:15.364Z"
+    },
+    {
+      "id": "ST08",
+      "order": 2,
+      "text": "می‌دید که نزد او خوراکی هست. می‌گفت: ای مریم، این‌ها از کجاست؟ می‌گفت: این‌ها",
+      "topic": "ترجمهٔ چاپی؛ آل‌عمران ۳۵–۳۷؛ بخش A08",
+      "printed_page": 41,
+      "pdf_page": 1,
+      "type": "ST",
+      "parent_id": "EX01",
+      "review_status": "edited_needs_review",
+      "audio_ranges": [],
+      "source": {
+        "primary_file": "Sources/54-59.pdf",
+        "pdf_page": 1,
+        "printed_page": 41,
+        "transcription_file": "Archive/Master-original-1.4-filename.md",
+        "related_text_ids": [
+          "A08"
+        ],
+        "evidence": "Copied verbatim from the master working transcript (section A); PDF OCR corroborates, but punctuation/diacritics need visual review."
+      },
+      "retired_reason": "deleted",
+      "retired_at": "2026-11-15T20:53:21.272Z"
+    },
+    {
+      "id": "ST09",
+      "order": 2,
+      "text": "از نزد خداست. به راستی خدا به هر که بخواهد روزی می‌دهد، آن هم بدون حساب.",
+      "topic": "ترجمهٔ چاپی؛ آل‌عمران ۳۵–۳۷؛ بخش A09",
+      "printed_page": 41,
+      "pdf_page": 1,
+      "type": "ST",
+      "parent_id": "EX01",
+      "review_status": "edited_needs_review",
+      "audio_ranges": [],
+      "source": {
+        "primary_file": "Sources/54-59.pdf",
+        "pdf_page": 1,
+        "printed_page": 41,
+        "transcription_file": "Archive/Master-original-1.4-filename.md",
+        "related_text_ids": [
+          "A09"
+        ],
+        "evidence": "Copied verbatim from the master working transcript (section A); PDF OCR corroborates, but punctuation/diacritics need visual review."
+      },
+      "retired_reason": "deleted",
+      "retired_at": "2026-11-15T20:53:28.624Z"
+    },
+    {
+      "id": "EX01",
+      "order": 1,
+      "text": "تمرین اول: جمله‌خوانی آیات ۳۵ تا ۳۷ سورهٔ آل‌عمران",
+      "topic": "جمله‌خوانی؛ آل‌عمران ۳۵–۳۷",
+      "printed_page": 41,
+      "pdf_page": 1,
+      "type": "EX",
+      "parent_id": null,
+      "review_status": "edited_needs_review",
+      "audio_ranges": [],
+      "source": {
+        "primary_file": "Sources/54-59.pdf",
+        "pdf_page": 1,
+        "printed_page": 41,
+        "related_text_ids": [
+          "A01",
+          "A02",
+          "A03",
+          "A04",
+          "A05",
+          "A06",
+          "A07",
+          "A08",
+          "A09"
+        ],
+        "evidence": "Prompt read from PDF OCR; Arabic reading stimuli not duplicated in this Persian-focused extraction."
+      },
+      "retired_reason": "deleted",
+      "retired_at": "2026-11-15T21:03:15.544Z"
+    },
+    {
+      "id": "EX02",
+      "order": 1,
+      "text": "تمرین دوم: روان‌خوانی آیات همراه با قرائت الگو",
+      "topic": "روان‌خوانی؛ جلسهٔ اول",
+      "printed_page": 41,
+      "pdf_page": 1,
+      "type": "EX",
+      "parent_id": null,
+      "review_status": "edited_needs_review",
+      "audio_ranges": [],
+      "source": {
+        "primary_file": "Sources/54-59.pdf",
+        "pdf_page": 1,
+        "printed_page": 41,
+        "related_text_ids": [
+          "A01",
+          "A02",
+          "A03",
+          "A04",
+          "A05",
+          "A06",
+          "A07",
+          "A08",
+          "A09"
+        ],
+        "evidence": "Prompt read from the lower part of PDF page 1; Arabic reading material not duplicated."
+      },
+      "retired_reason": "deleted",
+      "retired_at": "2026-11-15T21:03:18.696Z"
+    },
+    {
+      "id": "EX03",
+      "order": 13,
+      "text": "تمرین اول: آیات جلسهٔ اول را همراه با قرائت الگو بخوانید.",
+      "topic": "مرور قرائت جلسهٔ اول",
+      "printed_page": 44,
+      "pdf_page": 4,
+      "type": "EX",
+      "parent_id": null,
+      "review_status": "edited_needs_review",
+      "audio_ranges": [],
+      "source": {
+        "primary_file": "Sources/54-59.pdf",
+        "pdf_page": 4,
+        "printed_page": 44,
+        "related_text_ids": [
+          "A01",
+          "A02",
+          "A03",
+          "A04",
+          "A05",
+          "A06",
+          "A07",
+          "A08",
+          "A09"
+        ],
+        "evidence": "Prompt read from PDF OCR."
+      },
+      "retired_reason": "deleted",
+      "retired_at": "2026-11-15T21:03:27.189Z"
+    },
+    {
+      "id": "EX04",
+      "order": 13,
+      "text": "تمرین دوم: آیهٔ ۳۰ سورهٔ مریم را بخوانید و به ترجمهٔ آن توجه کنید.",
+      "topic": "مریم ۱۹:۳۰؛ توجه به ترجمه",
+      "printed_page": 44,
+      "pdf_page": 4,
+      "type": "EX",
+      "parent_id": null,
+      "review_status": "edited_needs_review",
+      "audio_ranges": [],
+      "source": {
+        "primary_file": "Sources/54-59.pdf",
+        "pdf_page": 4,
+        "printed_page": 44,
+        "related_text_ids": [
+          "M01",
+          "M02"
+        ],
+        "evidence": "Prompt read from PDF OCR; Arabic verse text is not duplicated here."
+      },
+      "retired_reason": "deleted",
+      "retired_at": "2026-11-15T21:03:29.618Z"
+    },
+    {
+      "id": "ST22",
+      "order": 13,
+      "text": "(حضرت عیسی در گهواره) گفت: به راستی من بندهٔ خدا هستم،",
+      "topic": "ترجمهٔ چاپی؛ مریم ۱۹:۳۰، بخش M01",
+      "printed_page": 44,
+      "pdf_page": 4,
+      "type": "ST",
+      "parent_id": "EX04",
+      "review_status": "edited_needs_review",
+      "audio_ranges": [],
+      "source": {
+        "primary_file": "Sources/54-59.pdf",
+        "pdf_page": 4,
+        "printed_page": 44,
+        "transcription_file": "Archive/Master-original-1.4-filename.md",
+        "related_text_ids": [
+          "M01"
+        ],
+        "evidence": "Copied verbatim from the master working transcript (section M); PDF OCR corroborates."
+      },
+      "retired_reason": "deleted",
+      "retired_at": "2026-11-15T21:03:44.842Z"
+    },
+    {
+      "id": "ST23",
+      "order": 13,
+      "text": "به من کتاب داده و مرا پیامبر قرار داده است.",
+      "topic": "ترجمهٔ چاپی؛ مریم ۱۹:۳۰، بخش M02",
+      "printed_page": 44,
+      "pdf_page": 4,
+      "type": "ST",
+      "parent_id": "EX04",
+      "review_status": "edited_needs_review",
+      "audio_ranges": [],
+      "source": {
+        "primary_file": "Sources/54-59.pdf",
+        "pdf_page": 4,
+        "printed_page": 44,
+        "transcription_file": "Archive/Master-original-1.4-filename.md",
+        "related_text_ids": [
+          "M02"
+        ],
+        "evidence": "Copied verbatim from the master working transcript (section M); PDF OCR corroborates."
+      },
+      "retired_reason": "deleted",
+      "retired_at": "2026-11-15T21:03:48.314Z"
+    },
+    {
+      "id": "EX05",
+      "order": 13,
+      "text": "تمرین سوم: با دقت در ترجمهٔ آیهٔ بالا، معنای صحیح را علامت بزنید.\nقالَ: گفت / بگو\nنَبِيّ: پیامبران / پیامبر",
+      "topic": "واژگان؛ انتخاب معنای درست",
+      "printed_page": 44,
+      "pdf_page": 4,
+      "type": "EX",
+      "parent_id": null,
+      "review_status": "edited_needs_review",
+      "audio_ranges": [],
+      "source": {
+        "primary_file": "Sources/54-59.pdf",
+        "pdf_page": 4,
+        "printed_page": 44,
+        "transcription_file": "Archive/Master-original-1.4-filename.md",
+        "related_text_ids": [
+          "M01",
+          "M02"
+        ],
+        "evidence": "Prompt OCR-supported; vocabulary choices copied from master item D04."
+      },
+      "retired_reason": "deleted",
+      "retired_at": "2026-11-15T21:03:50.402Z"
+    },
+    {
+      "id": "EX06",
+      "order": 13,
+      "text": "تمرین چهارم: این جمله‌های قرآنی را بخوانید و ترجمهٔ آن‌ها را کامل کنید.",
+      "topic": "تکمیل ترجمه؛ کهف ۱ و احزاب ۵۶",
+      "printed_page": 44,
+      "pdf_page": 4,
+      "type": "EX",
+      "parent_id": null,
+      "review_status": "edited_needs_review",
+      "audio_ranges": [],
+      "source": {
+        "primary_file": "Sources/54-59.pdf",
+        "pdf_page": 4,
+        "printed_page": 44,
+        "transcription_file": "Archive/Master-original-1.4-filename.md",
+        "related_text_ids": [
+          "K01",
+          "H01"
+        ],
+        "evidence": "The prompt is OCR-supported. The two printed verse prompts are mapped by the source master; the Persian fill-in lines could not be captured verbatim, so no guessed text is included."
+      },
+      "retired_reason": "deleted",
+      "retired_at": "2026-11-15T21:03:53.938Z"
+    },
+    {
+      "id": "EX07",
+      "order": 13,
+      "text": "سطر دوم از تمرین چهارم را تا پایان آیه از حفظ بخوانید. (آیهٔ صلوات)",
+      "topic": "حفظ آیهٔ صلوات",
+      "printed_page": 44,
+      "pdf_page": 4,
+      "type": "EX",
+      "parent_id": null,
+      "review_status": "edited_needs_review",
+      "audio_ranges": [],
+      "source": {
+        "primary_file": "Sources/54-59.pdf",
+        "pdf_page": 4,
+        "printed_page": 44,
+        "transcription_file": "Archive/Master-original-1.4-filename.md",
+        "related_text_ids": [
+          "H01",
+          "H02",
+          "H03"
+        ],
+        "evidence": "Copied from master item D03; OCR supports the instruction."
+      },
+      "retired_reason": "deleted",
+      "retired_at": "2026-11-15T21:03:56.281Z"
+    },
+    {
+      "id": "EX08",
+      "order": 14,
+      "text": "تمرین اول: آیات ۱۷ تا ۲۶ سورهٔ غاشیه را از بخش قرآن در تابستان همراه با قرائت الگو بخوانید.",
+      "topic": "روان‌خوانی؛ غاشیه ۱۷–۲۶",
+      "printed_page": 45,
+      "pdf_page": 5,
+      "type": "EX",
+      "parent_id": null,
+      "review_status": "edited_needs_review",
+      "audio_ranges": [],
+      "source": {
+        "primary_file": "Sources/54-59.pdf",
+        "pdf_page": 5,
+        "printed_page": 45,
+        "transcription_file": "Archive/Master-original-1.4-filename.md",
+        "related_text_ids": [
+          "G17",
+          "G18",
+          "G19",
+          "G20",
+          "G21",
+          "G22",
+          "G23",
+          "G24",
+          "G25",
+          "G26"
+        ],
+        "evidence": "Prompt copied from master D02 and corroborated by OCR. Referenced Ghashiya image contains Arabic verses only; Arabic text not duplicated as Persian educational text."
+      },
+      "retired_reason": "deleted",
+      "retired_at": "2026-11-15T21:05:16.050Z"
+    },
+    {
+      "id": "EX09",
+      "order": 14,
+      "text": "تمرین دوم: اتصالات را با فلش مشخص کنید. سپس جمله‌های قرآنی را بخوانید.",
+      "topic": "تمرین اتصال؛ بقره ۲۵۳ و آل‌عمران ۴۳، ۴۵",
+      "printed_page": 45,
+      "pdf_page": 5,
+      "type": "EX",
+      "parent_id": null,
+      "review_status": "edited_needs_review",
+      "audio_ranges": [],
+      "source": {
+        "primary_file": "Sources/54-59.pdf",
+        "pdf_page": 5,
+        "printed_page": 45,
+        "transcription_file": "Archive/Master-original-1.4-filename.md",
+        "related_text_ids": [
+          "C01",
+          "C02",
+          "C03"
+        ],
+        "evidence": "Persian instruction is OCR-supported. Quranic stimuli are represented only by their master IDs; they are not copied into text because the PDF OCR is not reliable enough for exact Arabic transcription."
+      },
+      "retired_reason": "deleted",
+      "retired_at": "2026-11-15T21:05:18.330Z"
+    },
+    {
+      "id": "EX10",
+      "order": 14,
+      "text": "خانه‌های نورانی: آیات ۳۵ تا ۳۷ سورهٔ آل‌عمران را به صورت جمله‌به‌جمله شبیه قرائت الگو بخوانید.",
+      "topic": "خانه‌های نورانی؛ آل‌عمران ۳۵–۳۷",
+      "printed_page": 45,
+      "pdf_page": 5,
+      "type": "EX",
+      "parent_id": null,
+      "review_status": "edited_needs_review",
+      "audio_ranges": [],
+      "source": {
+        "primary_file": "Sources/54-59.pdf",
+        "pdf_page": 5,
+        "printed_page": 45,
+        "related_text_ids": [
+          "A01",
+          "A02",
+          "A03",
+          "A04",
+          "A05",
+          "A06",
+          "A07",
+          "A08",
+          "A09"
+        ],
+        "evidence": "Prompt read from PDF OCR; its opening title is retained because it identifies the exercise, not decorative illustration."
+      },
+      "retired_reason": "deleted",
+      "retired_at": "2026-11-15T21:05:20.652Z"
+    },
+    {
+      "id": "EX11",
+      "order": 14,
+      "text": "تمرین اول: جمله‌خوانی آیات ۳ تا ۶ سورهٔ فاطر",
+      "topic": "جمله‌خوانی؛ فاطر ۳–۶",
+      "printed_page": 46,
+      "pdf_page": 6,
+      "type": "EX",
+      "parent_id": null,
+      "review_status": "edited_needs_review",
+      "audio_ranges": [],
+      "source": {
+        "primary_file": "Sources/54-59.pdf",
+        "pdf_page": 6,
+        "printed_page": 46,
+        "transcription_file": "Archive/Master-original-1.4-filename.md",
+        "related_text_ids": [
+          "F01",
+          "F02",
+          "F03",
+          "F04",
+          "F05",
+          "F06",
+          "F07",
+          "F08"
+        ],
+        "evidence": "Persian prompt is OCR-supported. Eight Arabic phrase IDs are documented in the master but the printed verse bodies are not copied because OCR is unreliable for a verbatim extract."
+      },
+      "retired_reason": "deleted",
+      "retired_at": "2026-11-15T21:05:22.994Z"
+    },
+    {
+      "id": "EX12",
+      "order": 14,
+      "text": "تمرین دوم: روان‌خوانی آیات همراه با قرائت الگو",
+      "topic": "روان‌خوانی؛ فاطر ۳–۶",
+      "printed_page": 46,
+      "pdf_page": 6,
+      "type": "EX",
+      "parent_id": null,
+      "review_status": "edited_needs_review",
+      "audio_ranges": [],
+      "source": {
+        "primary_file": "Sources/54-59.pdf",
+        "pdf_page": 6,
+        "printed_page": 46,
+        "related_text_ids": [
+          "F01",
+          "F02",
+          "F03",
+          "F04",
+          "F05",
+          "F06",
+          "F07",
+          "F08"
+        ],
+        "evidence": "Prompt read at the bottom of PDF page 6; exact punctuation/diacritics pending."
+      },
+      "retired_reason": "deleted",
+      "retired_at": "2026-11-15T21:05:25.266Z"
+    }
+  ],
+  "history": [
+    {
+      "at": "2026-11-15T20:50:41.200Z",
+      "action": "افزودن بازه به ST10"
+    },
+    {
+      "at": "2026-11-15T20:51:17.552Z",
+      "action": "افزودن بازه به ST11"
+    },
+    {
+      "at": "2026-11-15T20:52:05.200Z",
+      "action": "افزودن بازه به ST12"
+    },
+    {
+      "at": "2026-11-15T20:52:39.992Z",
+      "action": "افزودن بازه به ST13"
+    },
+    {
+      "at": "2026-11-15T20:52:57.862Z",
+      "action": "حذف قطعه ST01"
+    },
+    {
+      "at": "2026-11-15T20:53:00.408Z",
+      "action": "حذف قطعه ST02"
+    },
+    {
+      "at": "2026-11-15T20:53:03.243Z",
+      "action": "حذف قطعه ST03"
+    },
+    {
+      "at": "2026-11-15T20:53:07.163Z",
+      "action": "حذف قطعه ST04"
+    },
+    {
+      "at": "2026-11-15T20:53:09.223Z",
+      "action": "حذف قطعه ST05"
+    },
+    {
+      "at": "2026-11-15T20:53:12.808Z",
+      "action": "حذف قطعه ST06"
+    },
+    {
+      "at": "2026-11-15T20:53:15.364Z",
+      "action": "حذف قطعه ST07"
+    },
+    {
+      "at": "2026-11-15T20:53:21.272Z",
+      "action": "حذف قطعه ST08"
+    },
+    {
+      "at": "2026-11-15T20:53:28.624Z",
+      "action": "حذف قطعه ST09"
+    },
+    {
+      "at": "2026-11-15T20:54:15.892Z",
+      "action": "افزودن بازه به ST14"
+    },
+    {
+      "at": "2026-11-15T20:54:46.768Z",
+      "action": "افزودن بازه به ST15"
+    },
+    {
+      "at": "2026-11-15T20:55:09.368Z",
+      "action": "افزودن بازه به ST16"
+    },
+    {
+      "at": "2026-11-15T20:55:26.615Z",
+      "action": "افزودن بازه به ST17"
+    },
+    {
+      "at": "2026-11-15T20:55:42.008Z",
+      "action": "افزودن بازه به ST18"
+    },
+    {
+      "at": "2026-11-15T20:58:49.336Z",
+      "action": "افزودن بازه به ST19"
+    },
+    {
+      "at": "2026-11-15T20:59:21.088Z",
+      "action": "افزودن بازه به ST20"
+    },
+    {
+      "at": "2026-11-15T21:00:31.440Z",
+      "action": "افزودن بازه به ST21"
+    },
+    {
+      "at": "2026-11-15T21:01:19.873Z",
+      "action": "تأیید بازه 6e70dc6c-0ea9-4c9d-9e81-f6c824aa7089"
+    },
+    {
+      "at": "2026-11-15T21:01:39.600Z",
+      "action": "افزودن بازه به ST21"
+    },
+    {
+      "at": "2026-11-15T21:01:55.354Z",
+      "action": "ویرایش متن ST21"
+    },
+    {
+      "at": "2026-11-15T21:02:22.236Z",
+      "action": "ویرایش متن ST19"
+    },
+    {
+      "at": "2026-11-15T21:02:27.080Z",
+      "action": "تأیید بازه 931501aa-4050-4f9c-ab1c-1fd100fb9df4"
+    },
+    {
+      "at": "2026-11-15T21:02:29.968Z",
+      "action": "تأیید بازه fcb5db3d-1065-45bd-817e-e14e5c723d60"
+    },
+    {
+      "at": "2026-11-15T21:02:33.688Z",
+      "action": "تأیید بازه 6e70dc6c-0ea9-4c9d-9e81-f6c824aa7089"
+    },
+    {
+      "at": "2026-11-15T21:02:34.255Z",
+      "action": "تأیید بازه 9c75c485-2a31-40e1-a1d8-1a9030cb37d4"
+    },
+    {
+      "at": "2026-11-15T21:02:52.175Z",
+      "action": "تأیید بازه 931501aa-4050-4f9c-ab1c-1fd100fb9df4"
+    },
+    {
+      "at": "2026-11-15T21:03:15.546Z",
+      "action": "حذف قطعه EX01"
+    },
+    {
+      "at": "2026-11-15T21:03:18.696Z",
+      "action": "حذف قطعه EX02"
+    },
+    {
+      "at": "2026-11-15T21:03:27.189Z",
+      "action": "حذف قطعه EX03"
+    },
+    {
+      "at": "2026-11-15T21:03:29.618Z",
+      "action": "حذف قطعه EX04"
+    },
+    {
+      "at": "2026-11-15T21:03:44.842Z",
+      "action": "حذف قطعه ST22"
+    },
+    {
+      "at": "2026-11-15T21:03:48.314Z",
+      "action": "حذف قطعه ST23"
+    },
+    {
+      "at": "2026-11-15T21:03:50.402Z",
+      "action": "حذف قطعه EX05"
+    },
+    {
+      "at": "2026-11-15T21:03:53.939Z",
+      "action": "حذف قطعه EX06"
+    },
+    {
+      "at": "2026-11-15T21:03:56.281Z",
+      "action": "حذف قطعه EX07"
+    },
+    {
+      "at": "2026-11-15T21:04:56.552Z",
+      "action": "افزودن بازه به ST24"
+    },
+    {
+      "at": "2026-11-15T21:05:16.050Z",
+      "action": "حذف قطعه EX08"
+    },
+    {
+      "at": "2026-11-15T21:05:18.330Z",
+      "action": "حذف قطعه EX09"
+    },
+    {
+      "at": "2026-11-15T21:05:20.652Z",
+      "action": "حذف قطعه EX10"
+    },
+    {
+      "at": "2026-11-15T21:05:22.994Z",
+      "action": "حذف قطعه EX11"
+    },
+    {
+      "at": "2026-11-15T21:05:25.266Z",
+      "action": "حذف قطعه EX12"
+    },
+    {
+      "at": "2026-11-16T22:10:50.089Z",
+      "action": "ورود پروژه JSON"
+    },
+    {
+      "at": "2026-11-16T22:12:03.836Z",
+      "action": "افزودن بازه به ST10"
+    },
+    {
+      "at": "2026-11-16T22:12:10.146Z",
+      "action": "حذف بازه 587946c7-32b1-4c8f-882f-a534cf449e8e"
+    },
+    {
+      "at": "2026-11-16T22:12:52.635Z",
+      "action": "افزودن بازه به ST11"
+    },
+    {
+      "at": "2026-11-16T22:12:56.924Z",
+      "action": "حذف بازه a24839b9-e7ec-4801-af7c-70474744e50e"
+    },
+    {
+      "at": "2026-11-16T22:13:00.580Z",
+      "action": "حذف بازه abec8d42-25b9-4551-887f-2444ed8ba652"
+    },
+    {
+      "at": "2026-11-16T22:13:54.371Z",
+      "action": "افزودن بازه به ST12"
+    },
+    {
+      "at": "2026-11-16T22:14:23.675Z",
+      "action": "حذف بازه 80a39714-cec0-4e77-8a2a-fb5d38bae81c"
+    },
+    {
+      "at": "2026-11-16T22:14:58.074Z",
+      "action": "افزودن بازه به ST13"
+    },
+    {
+      "at": "2026-11-16T22:15:45.883Z",
+      "action": "تأیید بازه b6713d46-82c8-4747-a0ae-31941dba5987"
+    },
+    {
+      "at": "2026-11-16T22:15:48.115Z",
+      "action": "ویرایش بازه b6713d46-82c8-4747-a0ae-31941dba5987"
+    },
+    {
+      "at": "2026-11-16T22:18:08.875Z",
+      "action": "حذف بازه fc2743bf-3fdd-475a-ae3f-7dcc282fb334"
+    },
+    {
+      "at": "2026-11-16T22:18:38.459Z",
+      "action": "افزودن بازه به ST14"
+    },
+    {
+      "at": "2026-11-16T22:18:42.532Z",
+      "action": "حذف بازه efa7778f-cc32-4feb-8aef-783aeac0b7fb"
+    },
+    {
+      "at": "2026-11-16T22:19:08.875Z",
+      "action": "افزودن بازه به ST15"
+    },
+    {
+      "at": "2026-11-16T22:19:17.932Z",
+      "action": "حذف بازه 8e31acb8-4c82-47d1-a24b-34c376553a05"
+    },
+    {
+      "at": "2026-11-16T22:19:38.507Z",
+      "action": "افزودن بازه به ST16"
+    },
+    {
+      "at": "2026-11-16T22:19:47.083Z",
+      "action": "حذف بازه 1e5ed11f-4efc-4191-a3c4-016f44fb93d4"
+    },
+    {
+      "at": "2026-11-16T22:20:12.859Z",
+      "action": "افزودن بازه به ST17"
+    },
+    {
+      "at": "2026-11-16T22:20:17.900Z",
+      "action": "حذف بازه d7183342-9062-4843-9c07-326700a71a97"
+    },
+    {
+      "at": "2026-11-16T22:20:42.348Z",
+      "action": "افزودن بازه به ST18"
+    },
+    {
+      "at": "2026-11-16T22:20:48.013Z",
+      "action": "حذف بازه 931501aa-4050-4f9c-ab1c-1fd100fb9df4"
+    },
+    {
+      "at": "2026-11-16T22:21:14.276Z",
+      "action": "افزودن بازه به ST19"
+    },
+    {
+      "at": "2026-11-16T22:21:31.459Z",
+      "action": "حذف بازه fcb5db3d-1065-45bd-817e-e14e5c723d60"
+    },
+    {
+      "at": "2026-11-16T22:21:52.011Z",
+      "action": "افزودن بازه به ST20"
+    },
+    {
+      "at": "2026-11-16T22:28:39.554Z",
+      "action": "حذف بازه 6e70dc6c-0ea9-4c9d-9e81-f6c824aa7089"
+    },
+    {
+      "at": "2026-11-16T22:28:45.100Z",
+      "action": "حذف بازه 9c75c485-2a31-40e1-a1d8-1a9030cb37d4"
+    },
+    {
+      "at": "2026-11-16T22:29:20.059Z",
+      "action": "افزودن بازه به ST21"
+    },
+    {
+      "at": "2026-11-17T00:04:38.412Z",
+      "action": "حذف بازه 2c42850c-b531-41d2-9da4-df887ccd99bd"
+    },
+    {
+      "at": "2026-11-17T00:05:01.710Z",
+      "action": "افزودن بازه به ST21"
+    }
+  ],
+  "last_selected": "ST21",
+  "drafts": {}
+}
